@@ -40,8 +40,7 @@ public class ArrayTest {
 		System.out.println();
 		for(char c : arr2) {
 			System.out.print(c + " ");
-		}
-		
+		}	
 		
 		System.out.println();
 		for(String s : arr3) {
