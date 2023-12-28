@@ -42,6 +42,7 @@ public class ArrayTest {
 			System.out.print(c + " ");
 		}
 		
+		
 		System.out.println();
 		for(String s : arr3) {
 			System.out.print(s + " ");			
